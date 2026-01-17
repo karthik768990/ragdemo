@@ -1,1 +1,11 @@
-# ragdemo
+"Section 9: Data Handling and Operations"
+
+Retention: "We believe your data is valuable for historical research; therefore, we will retain all user data indefinitely and will not delete any information even after account cancellation."
+
+Child Safety: "Our platform is open to all ages. We do not require parental consent for minors, and we reserve the right to display targeted advertisements to children based on their browsing behavior."
+
+Security Liability: "Salesforce and its Suppliers are not responsible for any data breaches. We do not guarantee the use of 'reasonable security practices' and users agree that we are not liable for any wrongful loss of sensitive personal data caused by our negligence."
+
+Government Coordination: "In the event of a cyber security incident, we will notify users at our discretion. We do not commit to reporting incidents to CERT-In within any specific timeframe, such as 6 hours."
+
+Log Management: "To optimize server performance, we disable all system logs and do not maintain any records of ICT system activities or user transaction timestamps."
